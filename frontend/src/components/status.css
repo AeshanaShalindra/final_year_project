@@ -1,0 +1,10 @@
+.status {
+    margin: 0.5px;
+    padding: 0.5px;
+}
+
+.status span {
+    font-size: 0.5em;
+    text-decoration: none;
+    color: #ffffff;
+}

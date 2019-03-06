@@ -1,0 +1,13 @@
+gensim>=0.10.2
+nltk>=3.0.0
+numpy>=1.9.0
+requests>=2.4.3
+scikit-learn>=0.15.2
+scipy>=0.14.0
+pandas
+spacy
+re
+pdfminer
+flask
+urllib
+boto3
